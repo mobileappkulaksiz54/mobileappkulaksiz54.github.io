@@ -137,3 +137,9 @@ ushareit.com, lcb555b3bc8667a09a, RESELLER
 themediagrid.com, ws2d8n, RESELLER, 35d5010d7789b49d
 
 unity3d.com, [6001361], DIRECT
+
+
+pangle.com, 5035651, DIRECT
+# Optional but recommended for ByteDance demand
+pangle.global, 5035651, DIRECT
+tiktok.com, 5035651, DIRECT
