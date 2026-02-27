@@ -2,6 +2,8 @@ google.com, pub-3738574832974165, DIRECT, f08c47fec0942fa0
 
 unity.com, 8637321, DIRECT, 96cabb5fbdde37a7
 
+mail.ru, 3312584, DIRECT
+
 
 e-planning.net, 2f3a04630ba9ba3f, RESELLER, c1ba615865ed87b2
 pubmatic.com, 165157, RESELLER, 5d62403b186f2ace
