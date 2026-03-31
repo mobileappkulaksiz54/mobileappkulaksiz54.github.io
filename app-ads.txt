@@ -508,3 +508,7 @@ hyperad.tech, 215, RESELLER
 betweendigital.com, 43554, RESELLER
 Contextweb.com, 562899, RESELLER, 89ff185a4c4e857c
 hyperad.tech, 150, RESELLER
+
+
+yandex.ru, 18479385, DIRECT, f6a3666d6d88c035
+google.com, pub-3738574832974165, DIRECT, f08c47fec0942fa0
