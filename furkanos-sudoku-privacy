@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik Politikası ve Veri Silme - [Furkanos: Classic Puzzle]</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6; color: #333; background-color: #f8f9fa; margin: 0; padding: 20px;
+        }
+        .container {
+            max-width: 800px; margin: auto; background-color: #ffffff; padding: 30px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1, h2 { color: #212529; border-bottom: 2px solid #dee2e6; padding-bottom: 10px; }
+        .footer { text-align: center; margin-top: 30px; font-size: 14px; color: #6c757d; }
+        .highlight { background-color: #e9ecef; padding: 15px; border-left: 5px solid #007bff; margin: 20px 0; }
+        a { color: #007bff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>"[Furkanos: Sudoku Classic]" Gizlilik Politikası ve Veri Yönetimi</h1>
+        <p><strong>Son Güncelleme:</strong> [Günün Tarihini Yaz]</p>
+
+        <p>Bu gizlilik politikası, <strong>"[Furkanos: Sudoku Classic]"</strong> mobil uygulamasının kullanıcı verilerini nasıl yönettiğini açıklamaktadır.</p>
+
+        <h2>1. Topladığımız Veriler</h2>
+        <ul>
+            <li><strong>Yerel Oyun Verileri:</strong> Çözdüğünüz bulmacalar, kazandığınız puanlar ve oyun ayarlarınız <strong>sadece kendi cihazınızda</strong> saklanır. Sunucu tabanlı bir kayıt tutulmaz.</li>
+            <li><strong>Google Hesabı (Leaderboard):</strong> Sıralama sistemine katılmak istediğinizde Google Play Games profilinize erişilir. Bu sadece isminizin listede görünmesi içindir.</li>
+            <li><strong>Reklam Kimliği:</strong> Google AdMob ve Unity Ads, size uygun reklam göstermek için anonim reklam kimliğinizi kullanabilir.</li>
+        </ul>
+
+        <div class="highlight">
+            <h2>2. Veri Silme Politikası</h2>
+            <p>Uygulamamız kullanıcı hesabı oluşturmaz. Tüm veriler yereldir. Verilerinizi silmek için:</p>
+            <ol>
+                <li>Uygulama içindeki <strong>Ayarlar</strong> menüsüne gidin.</li>
+                <li><strong>"Verileri Sıfırla"</strong> seçeneğini kullanın.</li>
+                <li>Uygulamayı telefonunuzdan kaldırmak da tüm verileri otomatik olarak siler.</li>
+            </ol>
+            <p>Bulut (Play Games) verileri için Google hesabınızın uygulama ayarlarından "Play Games verilerini sil" diyerek sıralamadaki kaydınızı da temizleyebilirsiniz.</p>
+        </div>
+
+        <h2>3. İletişim</h2>
+        <p>Sorularınız için: <a href="mailto:mobileappkulaksiz54@gmail.com">mobileappkulaksiz54@gmail.com</a></p>
+
+        <div class="footer">
+            <p>&copy; 2025 [Kulaksız App Geliştirme].</p>
+        </div>
+    </div>
+</body>
+</html>
