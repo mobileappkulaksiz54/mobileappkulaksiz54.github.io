@@ -516,5 +516,10 @@ Contextweb.com, 562899, RESELLER, 89ff185a4c4e857c
 hyperad.tech, 150, RESELLER
 
 
-yandex.ru, 18479385, DIRECT, f6a3666d6d88c035
+brightcom.com, 23120, RESELLER
+adform.com, 3400, RESELLER, 9f5210a2f0999e32
+onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
+smartadserver.com, 4972, RESELLER, 060d053dcf45cbf3
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
+pubmatic.com, 163117, RESELLER, 5d62403b186f2aceyandex.ru, 18479385, DIRECT, f6a3666d6d88c035
 google.com, pub-3738574832974165, DIRECT, f08c47fec0942fa0
