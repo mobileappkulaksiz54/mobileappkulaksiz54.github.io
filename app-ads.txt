@@ -5,6 +5,8 @@ pangle.com, 5035651, DIRECT
 ads.vk.com, 29569974, DIRECT
 mail.ru, 3312584, DIRECT
 
+google.com, pub-3738574832974165, DIRECT, f08c47fec0942fa0
+
 # --- EK PANGLE (ByteDance) KAYITLARI ---
 pangle.global, 5035651, DIRECT
 tiktok.com, 5035651, DIRECT
