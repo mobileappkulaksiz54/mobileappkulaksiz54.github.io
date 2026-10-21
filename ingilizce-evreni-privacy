@@ -1,1 +1,118 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik Politikası ve Veri Silme - İngilizce Evreni</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #212529;
+            border-bottom: 2px solid #dee2e6;
+            padding-bottom: 10px;
+        }
+        p, li {
+            font-size: 16px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        strong {
+            color: #495057;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 14px;
+            color: #6c757d;
+        }
+        .highlight {
+            background-color: #e9ecef;
+            padding: 15px;
+            border-left: 5px solid #007bff;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>"İngilizce Evreni" için Gizlilik Politikası ve Veri Yönetimi</h1>
+        <p><strong>Son Güncelleme:</strong> 21.10.2026</p>
 
+        <p>Bu gizlilik politikası, <strong>"İngilizce Evreni"</strong> mobil uygulamasının kullanıcı verilerini nasıl topladığını, kullandığını ve yönettiğini açıklamaktadır.</p>
+
+        <h2>1. Topladığımız Veriler</h2>
+        <p>Uygulamamız, İngilizce öğrenme deneyimini sunmak ve geliştirmek amacıyla yalnızca gerekli olan sınırlı verileri toplar.</p>
+        <ul>
+            <li>
+                <strong>Yerel Öğrenme ve Hesap Verileri:</strong> Kelime ezber ilerlemeleriniz, test sonuçlarınız, favorileriniz, bakiye/yıldız bilgileriniz ve uygulama ayarlarınız gibi tüm veriler, sunucularımızda değil, <strong>sadece kendi cihazınızda yerel olarak</strong> saklanmaktadır.
+            </li>
+            <li>
+                <strong>Google ile Oturum Açma Verileri (Yedekleme Özelliği İçin):</strong> Uygulama içi ilerlemenizi ve bakiyenizi Google Drive'a yedekleme/geri yükleme özelliğini kullandığınızda, kimliğinizi doğrulamak için Google hesabınızın temel profil bilgilerine (e-posta adresinize) erişim istenir. Bu bilgi yalnızca yedekleme senkronizasyonu için kullanılır ve tarafımızca başka hiçbir amaçla işlenmez veya depolanmaz.
+            </li>
+            <li>
+                <strong>Uygulama İçi Satın Alım Verileri:</strong> Mağaza üzerinden gerçekleştirdiğiniz bakiye (yıldız) satın alımları Google Play Faturalandırma (Billing) sistemi üzerinden güvenli bir şekilde gerçekleştirilir. Finansal bilgileriniz (kredi kartı vb.) uygulamamız tarafından kesinlikle görülmez ve kaydedilmez.
+            </li>
+            <li>
+                <strong>Reklam Verileri:</strong> Uygulamamız, Google AdMob gibi üçüncü taraf reklam ağları aracılığıyla reklamlar gösterebilir. Bu ağlar ilgi alanınıza uygun reklamlar sunmak amacıyla anonim veriler (reklam kimliği vb.) toplayabilir.
+            </li>
+        </ul>
+
+        <h2>2. Verilerin Kullanımı</h2>
+        <p>Topladığımız verileri aşağıdaki amaçlar doğrultusunda kullanırız:</p>
+        <ul>
+            <li>İngilizce kelime ve test ilerlemelerinizi takip etmenizi sağlamak.</li>
+            <li>Kullanıcı bakiyenizi (yıldızlarınızı) ve uygulama içi tercihlerinizi korumak.</li>
+            <li>İsteğe bağlı olarak uygulama verilerinizi ve bakiye durumunuzu Google Drive hesabınıza yedeklemenize olanak tanımak.</li>
+        </ul>
+
+        <h2>3. Veri Güvenliği</h2>
+        <p>Kullanıcı verilerinin güvenliğine büyük önem veriyoruz. Cihazınızda saklanan yerel veriler, işletim sisteminizin standart güvenlik altyapısıyla korunur. Google Drive yedeklemeleri ise tamamen Google'ın yüksek güvenlikli sunucularında saklanır.</p>
+        
+        <div class="highlight">
+            <h2>4. Veri Silme Politikası ve Yönergeleri</h2>
+            <p>Google Play politikaları uyarınca, tüm kullanıcılarımıza verilerini ve hesaplarını silme hakkı sunuyoruz. Uygulamamız harici bir veritabanı sunucusu barındırmadığından, verileriniz doğrudan cihazınızda ve (eğer yedeklediyseniz) Google Drive'ınızda tutulur.</p>
+            <p><strong>Verilerinizi ve Yerel Hesabınızı Silmek İçin Lütfen Aşağıdaki Adımları İzleyin:</strong></p>
+            <ol>
+                <li><strong>"İngilizce Evreni"</strong> uygulamasını açın.</li>
+                <li>Alt menüden <strong>Profil (Hesap)</strong> sekmesine gidin.</li>
+                <li>Sayfanın en altındaki <strong>"Çıkış Yap ve Yerel Verileri Temizle"</strong> butonuna dokunun.</li>
+                <li>Bu işlemi onayladığınızda, cihazınızda kayıtlı olan tüm kelime ilerlemeleriniz, bakiye/yıldız bilgileriniz, favorileriniz ve yerel veritabanı dosyalarınız cihazdan kalıcı olarak silinir.</li>
+            </ol>
+            <p><strong>Google Drive Yedeklerini Silme:</strong> Google Drive'daki bulut yedeğinizi tamamen ortadan kaldırmak için, Google Drive uygulamanıza veya web sürümüne giderek uygulama verileri (gizli uygulama verisi alanı) içinden İngilizce Evreni yedeğini silebilir veya hesabınızın bağlantısını tamamen kesebilirsiniz.</p>
+        </div>
+        
+        <h2>5. Çocukların Gizliliği</h2>
+        <p>Uygulamamız her yaş grubundan kullanıcıya hitap etmekle birlikte, 13 yaşın altındaki çocuklardan bilerek kişisel tanımlanabilir bilgi toplamaz.</p>
+        
+        <h2>6. Bu Politikadaki Değişiklikler</h2>
+        <p>Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Yapılan değişiklikler bu sayfa üzerinden kullanıcılara duyurulacaktır.</p>
+        
+        <h2>7. İletişim</h2>
+        <p>Bu gizlilik politikası veya veri yönetimi ile ilgili her türlü soru ve öneriniz için bizimle e-posta yoluyla iletişime geçebilirsiniz: <a href="mailto:mobileappkulaksiz54@gmail.com">mobileappkulaksiz54@gmail.com</a></p>
+
+        <div class="footer">
+            <p>&copy; 2026 Kulaksız App Geliştirme. Tüm hakları saklıdır.</p>
+        </div>
+    </div>
+</body>
+</html>
