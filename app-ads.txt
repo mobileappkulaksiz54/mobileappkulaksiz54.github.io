@@ -12,6 +12,8 @@ pangle.global, 5035651, DIRECT
 tiktok.com, 5035651, DIRECT
 google.com, pub-3738574832974165, DIRECT, f08c47fec0942fa0
 
+google.com, pub-3738574832974165, DIRECT, f08c47fec0942fa0
+
 
 rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
 sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
